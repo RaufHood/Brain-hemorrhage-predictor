@@ -1,4 +1,4 @@
-# Inroduction
+# Introduction
 The goal of this project is to assess the risk of developing a brain hemorrhage in preterm childreen.
 This project is inspired by the research paper: Machine learning models for identifying preterm infants at risk of cerebral hemorrhage.
 
